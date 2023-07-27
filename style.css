@@ -1,0 +1,33 @@
+*{
+    background-color: darkgrey;
+}
+p{
+    color:red;
+}
+.class1 p{
+    color:blue;
+}
+.class1{
+    background-image: url("images/c.jpg");
+    height: 1000px;
+    width: 2000px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+}
+.class1 h1{
+    color:green;
+}
+.class1 #pfirst{
+    color: yellow;
+}
+h1{
+    border-style: solid dotted dashed ridge;
+    border-width: 5px 10px 15px 20px;
+    border-color: red green yellow blue;
+}
+.class2{
+    height: 500px;
+    width: 500px;
+    border: 5px dotted blue;
+}
